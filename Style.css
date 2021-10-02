@@ -1,0 +1,47 @@
+
+body {
+    background-color:lightcyan;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.container {
+    width: 50%;
+    margin-left: 35%;
+    
+}
+
+input,label{
+    display: block;
+    font-size: 1.3rem;
+}
+
+input {
+    margin-bottom: 2rem;
+    width: 60%;
+    padding: 1rem;
+}
+
+label{
+    margin-bottom: 0.5rem;
+}
+
+#check-button{
+    padding: 0.5rem;
+    font-size: large;
+    margin-bottom: 2rem;
+    
+}
+
+div{
+    font-size: 1.3rem;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 2rem;
+}
