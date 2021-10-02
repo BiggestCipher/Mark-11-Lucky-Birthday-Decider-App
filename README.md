@@ -3,4 +3,4 @@ In this Project, we will create an app to see whether a Birth Date is lucky or n
 
 We have used vanillaJS, Html and CSS for this project.
 
-Live Link of Project: 
+Live Link of Project: https://mark-11-lucky-birthday.netlify.app/
